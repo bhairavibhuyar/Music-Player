@@ -3,6 +3,7 @@ Music Player in Python using Pygame modules
 
 
 ABSTRACT:
+
 In the last few years, MP3 players have made it possible to take your whole music collection with you anywhere. Our implementation does provide the convenience of an MP3 player. This Music player can play, pause, rewind, resume and select songs with the previous button and next button according to set requirements as well as set up songs. It can be used easily for music and it’s convenient and quick and has a simple User Interface(UI).
 
 
